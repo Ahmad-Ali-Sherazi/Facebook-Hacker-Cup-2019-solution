@@ -36,7 +36,7 @@ int main()
 					break;
 				}
 				in >> n;
-			}
+		         }
 			//Solution for Leapfrog: Ch. 1
 	
                 	if (countb >= counts && counts > 0)
