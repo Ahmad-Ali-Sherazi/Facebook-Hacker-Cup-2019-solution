@@ -49,24 +49,6 @@ int main()
 				cout << "Case #" << i + 1 << ": N";
 				out << "Case #" << i + 1 << ": N";
 			}
-	
-			//Solution for Leapfrog: Ch. 2
-			/*
-			if (countb >= 2 && counts >= 1)
-			{
-				cout << "Case #" << i + 1 << ": Y";
-				out << "Case #" << i + 1 << ": Y";
-			}
-			else if (countb >= counts && counts > 0)
-			{
-				cout << "Case #" << i + 1 << ": Y";
-				out << "Case #" << i + 1 << ": Y";
-			}
-			else
-			{
-				cout << "Case #" << i + 1 << ": N";
-				out << "Case #" << i + 1 << ": N";
-			} */
 		}  
 	}
 	in.close();
